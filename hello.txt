@@ -1,1 +1,6 @@
 HI, this is me.
+
+
+int sum(int a,int b){
+	return a+b;
+}
