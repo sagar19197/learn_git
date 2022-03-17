@@ -1,3 +1,3 @@
-This file is readme.
+Welcome to this repository.
 
-hello.txt contains add function.
+This repository is for git craps.
