@@ -1,6 +1,4 @@
-HI, this is me.
-
-
+//function for sum
 int sum(int a,int b){
 	return a+b;
 }
