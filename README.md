@@ -1,1 +1,1 @@
-This branch is developing styling for development branch.
+This branch is for developing styling for development branch.
