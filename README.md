@@ -1,1 +1,1 @@
-This branch is development.
+This branch is for development.
